@@ -92,8 +92,9 @@ Organiza informações importantes em tabelas, facilitando a comparação e a an
 
 ---
 
-##Prompt
-Objetivo
+## Prompt
+
+### Objetivo
 Criar um segundo cérebro baseado nos ensinamentos do Benjamin Graham, e sua metoddologia de investimentos
 
 Fontes de videos
